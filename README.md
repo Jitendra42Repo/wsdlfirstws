@@ -1,9 +1,9 @@
-# wsdlfirstws: CustomerOrder SOAP Service
+# wsdlfirstws: CustomerOrder SOAP Service with JAX-WS Handler
 
 1. Online shopping management and tracing system.
 2. Facilitates consumer applications to keep track of list of products and orders of customers.
 3. Create order for a product, retrieve and delete list of orders placed. 
-4. Valide Site name (consumer-application name) is present in the reqauest.
+4. Valide Site name (consumer-application name) is present in the request.
 
 ## Tech Stack:
 1. Create Spring starter project using Spring Tool Suite IDE.
